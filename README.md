@@ -7,4 +7,6 @@ A discord music bot powered by lavalink for your needs (Not opend sourced) Invit
 
 Looking to upgrade your node? here is what you need using via NPM ||
 
+**Better V** (npm i -D node@16.6.0)
+
 npm init -y && npm i --save-dev node@16.6.0 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH
