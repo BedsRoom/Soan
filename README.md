@@ -1,4 +1,4 @@
-<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Soan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
+<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Effy&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
 
 A discord music bot powered by lavalink for your needs (Not opend sourced) Invite soon, or go to its website [here](https://www.bedsradio.ml).
